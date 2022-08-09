@@ -1,2 +1,3 @@
 # Personalized-news-app
-just some of the code to solve the sign in issue
+an Android app using Java, which gives real-time news on
+various categories according to users wishes
